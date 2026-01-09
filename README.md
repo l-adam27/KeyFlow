@@ -146,12 +146,3 @@ MIT License
 * Hack Club & Blueprint Program
 * KMK Firmware Framework
 * Open-source hardware community
-
-
-
-
-
-
-
-
-*Needs PowerToys (cool microsoft oficial app) to do this
