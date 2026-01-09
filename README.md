@@ -91,9 +91,16 @@ The firmware is built using **KMK (Keyboard Macro Keyboard)** on a **Seeed XIAO 
 *(To be added before final submission)*
 
 * PCB layout
+<img width="1215" height="691" alt="image" src="https://github.com/user-attachments/assets/6514ee26-ae91-4564-a6c4-a81fb0778fe8" />
+
 * Schematic
+<img width="681" height="564" alt="image" src="https://github.com/user-attachments/assets/ff6be921-9912-4641-bb0c-a507a5ce5952" />
+
 * 3D case render
+
+
 * Assembly preview
+<img width="1438" height="656" alt="image" src="https://github.com/user-attachments/assets/6ae4af51-f90d-49bf-ae08-b4f7dd82973f" />
 
 ---
 
