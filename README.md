@@ -67,10 +67,10 @@ KeyFlow/
 │   └─ keyflow.kicad_pcb
 │
 └─ Firmware/
+    ├─ lib
+    │   └─ adafruit_hid
     ├─ main.py
-    ├─ config.py
-    ├─ keymap.py
-    └─ README.md
+    └─config.py
 ```
 
 ---
@@ -99,7 +99,8 @@ The firmware is built using **KMK (Keyboard Macro Keyboard)** on a **Seeed XIAO 
 <img width="1438" height="656" alt="image" src="https://github.com/user-attachments/assets/6ae4af51-f90d-49bf-ae08-b4f7dd82973f" />
 
 * Assembly preview
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/f3629270-c050-43f4-b9b3-a3127a38ac54" />
+<img width="1520" height="722" alt="6c189676-9e64-4411-9dcd-47980507e1f8" src="https://github.com/user-attachments/assets/9dc7e77d-6523-4deb-b9ab-d005c8c81839" />
+
 
 ---
 
