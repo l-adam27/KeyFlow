@@ -26,7 +26,7 @@
 | Key 5 | Clean desktop            |
 | Key 6 | Microphone mute / unmute |
 
-### 🎚️ Rotary Encoder (Knob)
+### Rotary Encoder (Knob)
 
 * **Rotate:** System volume control
 * **Press:** Audio mute / unmute
