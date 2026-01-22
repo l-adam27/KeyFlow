@@ -1,4 +1,4 @@
-KeyFlow  —  custumizable keypad for your favorite shortcuts
+## KeyFlow  —  custumizable keypad for your favorite shortcuts
 
 Built for faster workflow and maximum productivity
 
@@ -15,7 +15,7 @@ Standart layout:
 > Important:
 > The key mapping listed below is the fabric standart, a future software will be implemented soon
 
-KeyMapping:
+Key Mapping:
 
 KEY 1 - SCREENSHOT
 KEY 2 - MEDIA CONTROL
@@ -37,16 +37,16 @@ Attachments:
 
 
 - PCB
-
+<img width="1215" height="691" alt="Screenshot 2026-01-09 011457" src="https://github.com/user-attachments/assets/5436f4a0-6961-4774-9541-b9507da29c57" />
 
 - Schematic
-
+<img width="681" height="564" alt="Screenshot 2026-01-09 011535" src="https://github.com/user-attachments/assets/83884ba2-0aba-44f3-bfaf-68ca7fe53b80" />
 
 - 3D case render
-
+<img width="1313" height="681" alt="Screenshot 2026-01-08 0219001212" src="https://github.com/user-attachments/assets/6b29c228-e43d-4abb-9393-907481742760" />
 
 - Assembly preview
-
+<img width="1520" height="722" alt="6c189676-9e64-4411-9dcd-47980507e1f8" src="https://github.com/user-attachments/assets/dc5baa88-06d6-4d07-aa02-7ef12d179ea1" />
 
 
 ---
