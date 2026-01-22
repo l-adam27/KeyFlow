@@ -1,30 +1,25 @@
-# KeyFlow  —  Programmable Macro Keyboard
+# KeyFlow  —  costumizable keypad for your favorite shortcuts
 
-**A compact, customizable 6-key macro pad with a rotary encoder for fast system control.**
-
----
-
-## 🚀 Overview
-
-The **KeyFlow Pad** is a compact macro keyboard designed to improve productivity and daily workflow efficiency by mapping common system actions to physical keys and a rotary encoder.
-
-It features **six keys and one rotary knob**, providing quick access to frequently used system actions such as screenshots, media control, desktop management, focus tools, and microphone control.
-
-This project was developed as part of the **Hack Club Blueprint** program.
+**Built for faster workflow and maximum productivity**
 
 ---
 
-## 🔧 Default Key Layout (Current Version)
+## Main
 
-> ⚠️ **Important:**
-> The key mappings listed below are the **default configuration** included in the current firmware.
-> These mappings are **not permanent** and serve as a functional starting point.
+**Keyflow** is a small macropad, designed to give the user the fastest ways to control your enviroment
+
+---
+
+## Standart layout
+
+>  **Important:**
+> The key mapping listed below is the fabric standart, we will launch a software that can change all the functions automaticly later on.
 
 ### 🔘 Keys
 
 | Key   | Function                 |
 | ----- | ------------------------ |
-| Key 1 | Screenshot tool          |
+| Key 1 | Screenshot        |
 | Key 2 | Play / Pause media       |
 | Key 3 | Lock screen              |
 | Key 4 | Focus mode               |
@@ -38,28 +33,14 @@ This project was developed as part of the **Hack Club Blueprint** program.
 
 ---
 
-## 🧠 Customization & Future Software
-
-Although the current firmware ships with **predefined default actions**, the KeyFlow Pad is designed to be **fully customizable**.
-
-🚧 **Planned Feature (Future Release):**
-A dedicated **KeyFlow desktop application** will be released to allow users to:
-
-* Remap all keys visually
-* Assign custom actions or macros
-* Change rotary encoder behavior
-* Save and switch between profiles
-
-This application will eliminate the need to modify firmware files manually, making customization accessible to all users.
-
----
-
-## 📂 Project Structure
+## Project Structure
 
 ```
 KeyFlow/
 ├─ CAD/
-│   └─ KeyFlow_complete.step
+│   ├─KeyFlow_TOP
+│   ├─KeyFlow_BASE
+│   └─ KeyFlow_complete_WITH_PCB.step
 │
 ├─ PCB/
 │   ├─ keyflow.kicadpro
@@ -71,25 +52,13 @@ KeyFlow/
     │   └─ adafruit_hid
     ├─ main.py
     └─config.py
+
 ```
 
----
-
-## 🧪 Firmware
-
-The firmware is built using **KMK (Keyboard Macro Keyboard)** on a **Seeed XIAO RP2040**, running CircuitPython.
-
-* USB HID compliant (plug and play)
-* No drivers required
-* Handles individual keys and rotary encoder input
-* Sends standard keyboard and media events to the operating system
-
----
-
-## 📸 Screenshots
+## Attachments
 
 
-* PCB layout
+* PCB
 <img width="1215" height="691" alt="image" src="https://github.com/user-attachments/assets/6514ee26-ae91-4564-a6c4-a81fb0778fe8" />
 
 * Schematic
@@ -104,7 +73,7 @@ The firmware is built using **KMK (Keyboard Macro Keyboard)** on a **Seeed XIAO 
 
 ---
 
-## 📦 BOM
+## BOM
 
 | Component                       | Quantity |
 | ------------------------------- | -------- |
@@ -117,32 +86,14 @@ The firmware is built using **KMK (Keyboard Macro Keyboard)** on a **Seeed XIAO 
 
 ---
 
-## 📐 CAD & PCB
-
-* **CAD:** Single assembled model provided as a `.STEP` file
-* **PCB:** Complete KiCAD project including schematic and layout
-* Designed for compact size and ease of assembly
-
----
-
-## 📍 Project Status
-
-* ✅ Hardware design: complete
-* ✅ PCB design: complete
-* ✅ Firmware (default layout): complete
-* 🚧 Desktop configuration app: planned future update
-* ⏳ Physical testing: pending (parts not yet received)
-
----
-
-## 📄 License
+## License
 
 MIT License
 
 ---
 
-## 🙌 Acknowledgements
-
-* Hack Club & Blueprint Program
-* KMK Firmware Framework
-* Open-source hardware community
+## Special Thanks:
+* HackClub 
+* Shadow (1st to reviewing the project, ty for the tips btw)
+* My Dad
+* My Mom
