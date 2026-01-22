@@ -76,4 +76,4 @@ Special Thanks:
 --
 
 IMPORTANT:
-** NOTE: I though I didnt need to write this here, but for insistence I needed to. I re-writted the entire document in portuguese. AI was used to translate parts of this document. Please be aware not evryone has the resources to fluent in englis **
+** NOTE: I though I didnt need to write this here, but for insistence I needed to. I re-writted the entire document in portuguese. AI was used to translate parts of this document. Please be aware not evryone has the resources to fluent in english **
