@@ -38,9 +38,9 @@
 ```
 KeyFlow/
 ├─ CAD/
-│   ├─KeyFlow_TOP
-│   ├─KeyFlow_BASE
-│   └─ KeyFlow_complete_WITH_PCB.step
+│   ├─KEYFLOW_Top.step
+│   ├─KEYFLOW_BASE.step
+│   └─ KEYFLOW_Assemble_Final.step
 │
 ├─ PCB/
 │   ├─ keyflow.kicadpro
