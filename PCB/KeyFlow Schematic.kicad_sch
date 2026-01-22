@@ -1955,7 +1955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XIAO3:XIAO-RP2040-SMD"
+		(property "Footprint" "Library:XIAO-RP2040-DIP"
 			(at 107.188 112.268 0)
 			(effects
 				(font

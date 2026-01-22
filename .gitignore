@@ -1,0 +1,5 @@
+# KiCad cache / local files
+fp-info-cache
+fp-lib-table
+*.lck
+~*.kicad_sch
