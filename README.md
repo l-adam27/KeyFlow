@@ -1,4 +1,4 @@
-## KeyFlow  —  custumizable keypad for your favorite shortcuts
+## KeyFlow  —  customizable keypad for your favorite shortcuts
 
 Built for faster workflow and maximum productivity
 
