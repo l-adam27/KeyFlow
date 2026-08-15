@@ -56,9 +56,13 @@ BOM:
 Components:
 
 Seeed XIAO RP2040 | 1x
+
 Mechanical switches | 6x
+
 EC11 Rotary Encoder* | 1x
+
 Custom PCB | 1x
+
 3D PARTS | 1x
 
 *: (With the push thing)
