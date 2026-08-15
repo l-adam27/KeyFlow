@@ -51,7 +51,7 @@ Attachments:
 
 ---
 
-BOM:
+### BOM:
 
 Components:
 
